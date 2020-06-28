@@ -1,3 +1,6 @@
+# Music Queue Web
+![screenshot](https://github.com/techmexdev/music-queue-web/blob/master/screenshot.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
